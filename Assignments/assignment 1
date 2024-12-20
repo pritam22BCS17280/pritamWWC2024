@@ -138,6 +138,41 @@ int main() {
 
 
 
+OUTPUT:
+
+1. Add Item
+2. Update Stock
+3. View Inventory
+4. Exit
+
+Enter your choice: 1
+Enter Item ID, Name, Quantity, Reorder Level:
+12345
+BAT
+60
+2
+Item added.
+
+1. Add Item
+2. Update Stock
+3. View Inventory
+4. Exit
+
+Enter your choice: 3
+Inventory:
+ID: 12345, Name: BAT, Quantity: 60, Reorder Level: 2
+
+1. Add Item
+2. Update Stock
+3. View Inventory
+4. Exit
+
+Enter your choice: 4
+Exiting.
+
+
+
+
 **************************************PROCEDURE*******************************************************************
 
 Class InventoryItem:
