@@ -92,7 +92,7 @@ int main() {
 
 
 
-//    OUTPUT:
+/*   OUTPUT:
 
 1. Add Item
 2. Update Stock
@@ -156,7 +156,7 @@ Main Function:
 
 Creates an instance of InventoryManagementSystem.
 Starts the application by calling the menu.
-
+*/
 
 
 
